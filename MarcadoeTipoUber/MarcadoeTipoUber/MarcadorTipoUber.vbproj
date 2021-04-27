@@ -93,6 +93,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\style.css" />
+    <Content Include="img\baby-car.svg" />
+    <Content Include="img\carro.png" />
+    <Content Include="img\carSVG.svg" />
     <Content Include="img\carTopView.png" />
     <Content Include="Web.config" />
     <Content Include="Index.aspx" />
