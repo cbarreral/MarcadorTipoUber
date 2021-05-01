@@ -37,7 +37,142 @@ MarcadoeTipoUber
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
+<member name="F:MarcadoeTipoUber.DistanciasEntreDosPuntos._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.DistanciasEntreDosPuntos._txtLatitudA">
+<summary>
+Control txtLatitudA.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.DistanciasEntreDosPuntos._txtLongitudA">
+<summary>
+Control txtLongitudA.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.DistanciasEntreDosPuntos._txtLatitudB">
+<summary>
+Control txtLatitudB.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.DistanciasEntreDosPuntos._txtLongitudB">
+<summary>
+Control txtLongitudB.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.MarcadorConRadio._Label1">
+<summary>
+Control Label1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.MarcadorConRadio._Label2">
+<summary>
+Control Label2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.MarcadorConRadio._Label3">
+<summary>
+Control Label3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.MarcadorConRadio._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:MarcadoeTipoUber.WebForm1._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.WebForm1._txtLatitudA">
+<summary>
+Control txtLatitudA.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.WebForm1._txtLongitudA">
+<summary>
+Control txtLongitudA.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.WebForm1._txtLatitudB">
+<summary>
+Control txtLatitudB.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.WebForm1._txtLongitudB">
+<summary>
+Control txtLongitudB.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.WebForm1._txtDistancia">
+<summary>
+Control txtDistancia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:MarcadoeTipoUber.Poligono._form1">
 <summary>
 Control form1.
 </summary>

@@ -93,14 +93,32 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\style.css" />
+    <Content Include="DistanciasEntreDosPuntos.aspx" />
     <Content Include="img\baby-car.svg" />
     <Content Include="img\carro.png" />
     <Content Include="img\carSVG.svg" />
     <Content Include="img\carTopView.png" />
+    <Content Include="js\locationpicker.jquery.js" />
+    <Content Include="MarcadorConRadio.aspx" />
+    <Content Include="Poligono.aspx" />
     <Content Include="Web.config" />
     <Content Include="Index.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DistanciasEntreDosPuntos.aspx.designer.vb">
+      <DependentUpon>DistanciasEntreDosPuntos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DistanciasEntreDosPuntos.aspx.vb">
+      <DependentUpon>DistanciasEntreDosPuntos.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="MarcadorConRadio.aspx.designer.vb">
+      <DependentUpon>MarcadorConRadio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MarcadorConRadio.aspx.vb">
+      <DependentUpon>MarcadorConRadio.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -127,6 +145,13 @@
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="Poligono.aspx.designer.vb">
+      <DependentUpon>Poligono.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Poligono.aspx.vb">
+      <DependentUpon>Poligono.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -137,6 +162,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="js\jquery.gmap.js" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>

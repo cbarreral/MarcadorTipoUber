@@ -116,7 +116,6 @@ C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoU
 C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\obj\Debug\MarcadorTipoUber.vbprojAssemblyReference.cache
 C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\obj\Debug\MarcadoeTipoUber.Resources.resources
 C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\obj\Debug\MarcadorTipoUber.vbproj.GenerateResource.cache
 C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\obj\Debug\MarcadorTipoUber.vbproj.CoreCompileInputs.cache
@@ -124,3 +123,4 @@ C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoU
 C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\obj\Debug\MarcadoeTipoUber.dll
 C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\obj\Debug\MarcadoeTipoUber.xml
 C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\obj\Debug\MarcadoeTipoUber.pdb
+C:\Users\Carlos\Documents\GitHub\MarcadorTipoUber\MarcadoeTipoUber\MarcadoeTipoUber\obj\Debug\MarcadorTipoUber.vbprojAssemblyReference.cache
